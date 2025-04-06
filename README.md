@@ -1,4 +1,4 @@
-# My projects in Solidity. 
+# My projects in Solidity
 ## Description
 I started my web3 journey in 2022 doing applied blockchain from business perspective with focus on:
 - developing a blockchain business model
